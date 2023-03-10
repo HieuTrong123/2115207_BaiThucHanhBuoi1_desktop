@@ -1,0 +1,11 @@
+C:\Tài liệu học tập\2023-2024 DLU\winForm\2115207_DinhTrongHieu_Lab1\BaiThucHanhSo1\bin\Debug\BaiThucHanhSo1.exe.config
+C:\Tài liệu học tập\2023-2024 DLU\winForm\2115207_DinhTrongHieu_Lab1\BaiThucHanhSo1\bin\Debug\BaiThucHanhSo1.exe
+C:\Tài liệu học tập\2023-2024 DLU\winForm\2115207_DinhTrongHieu_Lab1\BaiThucHanhSo1\bin\Debug\BaiThucHanhSo1.pdb
+C:\Tài liệu học tập\2023-2024 DLU\winForm\2115207_DinhTrongHieu_Lab1\BaiThucHanhSo1\obj\Debug\BaiThucHanhSo1.csproj.SuggestedBindingRedirects.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\2115207_DinhTrongHieu_Lab1\BaiThucHanhSo1\obj\Debug\BaiThucHanhSo1.MainForm.resources
+C:\Tài liệu học tập\2023-2024 DLU\winForm\2115207_DinhTrongHieu_Lab1\BaiThucHanhSo1\obj\Debug\BaiThucHanhSo1.Properties.Resources.resources
+C:\Tài liệu học tập\2023-2024 DLU\winForm\2115207_DinhTrongHieu_Lab1\BaiThucHanhSo1\obj\Debug\BaiThucHanhSo1.csproj.GenerateResource.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\2115207_DinhTrongHieu_Lab1\BaiThucHanhSo1\obj\Debug\BaiThucHanhSo1.csproj.CoreCompileInputs.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\2115207_DinhTrongHieu_Lab1\BaiThucHanhSo1\obj\Debug\BaiThucHanhSo1.exe
+C:\Tài liệu học tập\2023-2024 DLU\winForm\2115207_DinhTrongHieu_Lab1\BaiThucHanhSo1\obj\Debug\BaiThucHanhSo1.pdb
+C:\Tài liệu học tập\2023-2024 DLU\winForm\2115207_DinhTrongHieu_Lab1\BaiThucHanhSo1\obj\Debug\BaiThucHanhSo1.csproj.AssemblyReference.cache
